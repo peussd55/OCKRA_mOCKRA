@@ -74,6 +74,8 @@
 - Chebyshev 임계치 계산 시 사용한 단순 합 대신, **정규화된 가중치 평균**이나 **Bayesian 최적화**를 적용하면 보다 안정적인 기준값을 얻을 수 있습니다.
 - `parameter_search_results.csv`와 `Final_Results_Summary.csv`를 통합 분석하여 **통합 하이퍼파라미터 추천 대시보드**를 구성해 보세요.
 
+---
+
 <img width="1152" height="515" alt="화면 캡처 2025-10-18 201157" src="https://github.com/user-attachments/assets/589343d8-9dd7-4824-b3f8-7889c9fa7d53" />
 <img width="1143" height="512" alt="화면 캡처 2025-10-18 201224" src="https://github.com/user-attachments/assets/26d3f5f0-4965-4b0f-b924-c59a2a9dfc2b" />  
 <img width="1147" height="526" alt="화면 캡처 2025-10-18 201407" src="https://github.com/user-attachments/assets/4405cf6f-8522-4da6-965b-d698aaec9480" />
