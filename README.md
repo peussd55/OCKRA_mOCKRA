@@ -12,6 +12,12 @@
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white">
 </p>
 
+## 👥 참여인원 (Members)
+<p>
+  <img src="https://img.shields.io/badge/개발%20(Development)-1명-3776AB?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/연구%20(Research)-1명-EE4C2C?style=flat-square&logo=googlescholar&logoColor=white">
+</p>
+
 ## 1. 저장소 구성
 | 파일 | 설명 |
 | --- | --- |
